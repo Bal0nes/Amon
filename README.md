@@ -1,6 +1,6 @@
 # Amon
 
-<img src="https://cdn.discordapp.com/attachments/1060448710502383626/1062160390567493812/Amon_banner.jpeg">
+<img src="https://cdn.discordapp.com/attachments/1060447331566235658/1069031540685819924/Amon_banner.jpeg">
 
 <a href="https://top.gg/bot/1045161373753167892">
   <img src="https://top.gg/api/widget/owner/1045161373753167892.svg">
