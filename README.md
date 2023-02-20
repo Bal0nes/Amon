@@ -81,5 +81,5 @@ De Blinkulo#7943 ♡
 • Información de servidor, canales y roles.
 
 
-<h3>❤️‍ ¿Qué esperas para comenzar una nueva aventura? ❤️‍🔥</h3>
+<h3>¿Qué esperas para comenzar una nueva aventura? ❤️‍🔥</h3>
 <a href="https://discord.com/api/oauth2/authorize?client_id=1045161373753167892&permissions=8&scope=bot">¡Invítame!</a>
