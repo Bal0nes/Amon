@@ -5,8 +5,6 @@
 <a href="https://top.gg/bot/1045161373753167892">
   <img src="https://top.gg/api/widget/owner/1045161373753167892.svg">
 </a> <a href="https://top.gg/bot/1045161373753167892">
-  <img src="https://top.gg/api/widget/servers/1045161373753167892.svg">
-</a> <a href="https://top.gg/bot/1045161373753167892">
   <img src="https://top.gg/api/widget/upvotes/1045161373753167892.svg">
 </a>
 
@@ -51,11 +49,9 @@ De Blinkulo#7943 ♡
 
 • Acepta o rechaza a un usuario.
 
-<h3>🐶 Mascotas</h3>
-• Niveles y estadísticas.
-
 
 • Mascotas personalizadas.
+
 
 • Exploración.
 
