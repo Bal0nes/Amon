@@ -65,8 +65,14 @@ De Blinkulo#7943 ♡
 • Registro de eventos funcional.
 
 • Cambios de nickname.
+
+
 • Cambios de usuario.
+
+
 • Cambios de avatar.
+
+
 • Configurables.
 
 <h3>🗝 Utilidad</h3>
