@@ -10,9 +10,9 @@
 
 Hola~ Soy Amon, un bot multi funcional de Discord cuya misión es cautivar a tu server con mis encantos.
 
-Potenciado por +100 comandos.
+Potenciado por +150 comandos.
 
-De Blinkulo#7943 ♡
+Hecho por Blinkulo#7943 con ♡
 
 [Spanish Bot]
 
@@ -49,11 +49,6 @@ De Blinkulo#7943 ♡
 
 • Acepta o rechaza a un usuario.
 
-
-• Mascotas personalizadas.
-
-
-• Exploración.
 
 <h3>⚔️ Moderación</h3>
 • Comandos de ban, kick y warn.
