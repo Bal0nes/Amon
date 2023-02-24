@@ -12,7 +12,7 @@ Hola~ Soy Amon, un bot multi funcional de Discord cuya misión es cautivar a tu 
 
 Potenciado por +150 comandos.
 
-Hecho por Blinkulo#7943 con ♡
+Hecho por Bal#7943 con ♡
 
 [Spanish Bot]
 
